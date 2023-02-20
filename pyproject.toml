@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "hello-world-pytorch-fastai"
+version = "0.1.0"
+description = ""
+authors = ["Jonathan Novak <jonathan.m.novak@gmail.com>"]
+readme = "README.md"
+packages = [{include = "hello_world_pytorch_fastai"}]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+fastai = "^2.7.11"
+duckduckgo-search = "^2.8.0"
+fastdownload = "^0.0.7"
+jupyter = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
