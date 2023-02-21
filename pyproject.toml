@@ -5,6 +5,7 @@ description = ""
 authors = ["Jonathan Novak <jonathan.m.novak@gmail.com>"]
 readme = "README.md"
 packages = [{include = "hello_world_pytorch_fastai"}]
+repository = "https://github.com/jonathanmnovak/hello-world-pytorch-fastai"
 
 [tool.poetry.dependencies]
 python = "^3.7"
