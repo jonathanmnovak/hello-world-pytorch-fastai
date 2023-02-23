@@ -13,4 +13,4 @@ reproduce the environment.
 Each chapter will have a corresponding Jupyter notebook. The book
 and course recommend running these notebooks in Kaggle but
 I'll be recreating and/or developing new notebooks which 
-cover the materials in the chapter.
+cover the material in the chapter on my local machine.
